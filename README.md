@@ -33,6 +33,44 @@ I'm especially interested in turning processes that live in spreadsheets, forms,
 
 ## Featured projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/juangaudino/streex-riders">
+        <img src="https://raw.githubusercontent.com/juangaudino/streex-riders/main/public/images/readme/passenger-weather.png" alt="Streex Rides passenger weather experience" width="100%" />
+      </a>
+      <br /><strong>🚗 Streex Rides</strong><br />
+      <sub>Private ride operations, booking, pricing and passenger experience.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/juangaudino/streex-tracker">
+        <img src="https://raw.githubusercontent.com/juangaudino/streex-tracker/main/docs/media/streex-dashboard.png" alt="Streex Gig dashboard" width="100%" />
+      </a>
+      <br /><strong>📊 Streex Gig</strong><br />
+      <sub>Gig-work performance, analytics, identity and personal benchmarks.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/juangaudino/streex-garden">
+        <img src="https://raw.githubusercontent.com/juangaudino/streex-garden/main/docs/screenshots/empty-home.jpg" alt="Streex Garden home" width="100%" />
+      </a>
+      <br /><strong>🌱 Streex Garden</strong><br />
+      <sub>Private operational journal for gardens, grow cycles and evidence.</sub>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <br /><br />
+      <h1>🪪</h1>
+      <strong>Streex Aura Persona</strong><br />
+      <sub>Interactive professional CV and portfolio experience.</sub><br /><br />
+      <sub><em>Migration and portfolio refinement in progress.</em></sub><br /><br />
+      <a href="https://github.com/juangaudino/streex-aura-persona">View repository</a> ·
+      <a href="https://professional-motion-story.lovable.app">Live app</a>
+      <br /><br />
+    </td>
+  </tr>
+</table>
+
 ### 🚗 Streex Rides
 **A modular operating system for a premium private ride service.**
 
@@ -63,6 +101,17 @@ Connects gardens, physical positions, grow cycles, confirmed observations, docum
 **Technical highlights:** React 19 · TypeScript · Supabase Auth/Postgres/RLS/RPC · private Storage · immutable photo evidence · idempotent commands · offline observation drafts · PWA
 
 [View repository](https://github.com/juangaudino/streex-garden) · [Live product](https://garden.getstreex.com)
+
+---
+
+### 🪪 Streex Aura Persona
+**An interactive professional CV and portfolio experience.**
+
+A motion-led, bilingual portfolio designed to present professional experience, career history, projects, skills, and personal narrative with a more immersive product experience than a traditional résumé page.
+
+The project is currently being migrated and refined from its original Lovable implementation. The repository already uses React 19, TypeScript, TanStack Start/Router, Supabase, Tailwind CSS, Radix UI, and Motion, but its architecture and Lovable-specific dependencies are still being audited before I present it as a finished independent deployment.
+
+[View repository](https://github.com/juangaudino/streex-aura-persona) · [Current live app](https://professional-motion-story.lovable.app)
 
 ## How I work with AI
 
