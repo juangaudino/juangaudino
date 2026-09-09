@@ -72,46 +72,48 @@ I'm especially interested in turning processes that live in spreadsheets, forms,
 </table>
 
 ### 🚗 Streex Rides
-**A modular operating system for a premium private ride service.**
+**Private ride operations + passenger experience.**
 
-Connects public ride pages with booking requests, availability, rule-based pricing, authenticated operations, calendar synchronization, and a bilingual in-vehicle passenger console.
+Booking, availability, pricing, authenticated operations, calendar sync, and an in-vehicle passenger console in one modular product.
 
-**Technical highlights:** React 19 · TypeScript · TanStack · Supabase Auth/Postgres/RLS · tenant-scoped operations · pricing snapshots · Google Maps & Calendar · Resend · Spotify
+`React 19` · `TypeScript` · `TanStack` · `Supabase` · `RLS` · `Google Maps` · `Google Calendar`
 
-[View repository](https://github.com/juangaudino/streex-riders) · [Live product](https://rides.getstreex.com)
+[Repository](https://github.com/juangaudino/streex-riders) · [Live product](https://rides.getstreex.com)
 
 ---
 
 ### 📊 Streex Gig
-**Gig earnings tracker. Career identity system. Personal performance cockpit.**
+**A performance cockpit for gig workers.**
 
-A mobile-first system that turns earnings, shifts, mileage, and rides into goals, personal benchmarks, analytics, achievements, career identity, and evidence-based insights.
+Turns earnings, shifts, mileage, and rides into goals, benchmarks, analytics, achievements, and a clearer record of work over time.
 
-**Technical highlights:** React · TypeScript · Supabase Auth/Postgres/RLS/Edge Functions · integrity-aware analytics · Vitest · Playwright · GitHub Actions
+`React` · `TypeScript` · `Supabase` · `Edge Functions` · `Vitest` · `Playwright` · `GitHub Actions`
 
-[View repository](https://github.com/juangaudino/streex-tracker) · [Live product](https://gig.getstreex.com)
+[Repository](https://github.com/juangaudino/streex-tracker) · [Live product](https://gig.getstreex.com)
 
 ---
 
 ### 🌱 Streex Garden
-**A private operational and visual journal for physical gardens and grow cycles.**
+**A private operational journal for physical gardens and grow cycles.**
 
-Connects gardens, physical positions, grow cycles, confirmed observations, documentary photos, maintenance workflows, and pending attention while preserving historical provenance instead of silently rewriting it.
+Tracks gardens, positions, grow cycles, observations, documentary photos, maintenance, and pending attention while preserving historical evidence.
 
-**Technical highlights:** React 19 · TypeScript · Supabase Auth/Postgres/RLS/RPC · private Storage · immutable photo evidence · idempotent commands · offline observation drafts · PWA
+`React 19` · `TypeScript` · `Supabase` · `RLS/RPC` · `Private Storage` · `PWA`
 
-[View repository](https://github.com/juangaudino/streex-garden) · [Live product](https://garden.getstreex.com)
+[Repository](https://github.com/juangaudino/streex-garden) · [Live product](https://garden.getstreex.com)
 
 ---
 
 ### 🪪 Streex Aura Persona
 **An interactive professional CV and portfolio experience.**
 
-A motion-led, bilingual portfolio designed to present professional experience, career history, projects, skills, and personal narrative with a more immersive product experience than a traditional résumé page.
+A motion-led, bilingual portfolio for presenting experience, projects, skills, and career history beyond a traditional résumé page.
 
-The project is currently being migrated and refined from its original Lovable implementation. The repository already uses React 19, TypeScript, TanStack Start/Router, Supabase, Tailwind CSS, Radix UI, and Motion, but its architecture and Lovable-specific dependencies are still being audited before I present it as a finished independent deployment.
+`React 19` · `TypeScript` · `TanStack` · `Supabase` · `Tailwind CSS` · `Motion`
 
-[View repository](https://github.com/juangaudino/streex-aura-persona) · [Current live app](https://professional-motion-story.lovable.app)
+*Migration and architecture refinement in progress.*
+
+[Repository](https://github.com/juangaudino/streex-aura-persona) · [Current live app](https://professional-motion-story.lovable.app)
 
 ## How I work with AI
 
