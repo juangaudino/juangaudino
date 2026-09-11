@@ -36,15 +36,15 @@ I'm especially interested in turning processes that live in spreadsheets, forms,
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/juangaudino/streex-riders">
-        <img src="https://raw.githubusercontent.com/juangaudino/streex-riders/main/public/images/readme/passenger-weather.png" alt="Streex Rides passenger weather experience" width="100%" />
+      <a href="https://github.com/juangaudino/streex-rides">
+        <img src="https://raw.githubusercontent.com/juangaudino/streex-rides/main/public/images/readme/passenger-weather.png" alt="Streex Rides passenger weather experience" width="100%" />
       </a>
       <br /><strong>🚗 Streex Rides</strong><br />
       <sub>Private ride operations, booking, pricing and passenger experience.</sub>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/juangaudino/streex-tracker">
-        <img src="https://raw.githubusercontent.com/juangaudino/streex-tracker/main/docs/media/streex-dashboard.png" alt="Streex Gig dashboard" width="100%" />
+      <a href="https://github.com/juangaudino/streex-gig">
+        <img src="https://raw.githubusercontent.com/juangaudino/streex-gig/main/docs/media/streex-dashboard.png" alt="Streex Gig dashboard" width="100%" />
       </a>
       <br /><strong>📊 Streex Gig</strong><br />
       <sub>Gig-work performance, analytics, identity and personal benchmarks.</sub>
@@ -78,7 +78,7 @@ Booking, availability, pricing, authenticated operations, calendar sync, and an 
 
 `React 19` · `TypeScript` · `TanStack` · `Supabase` · `RLS` · `Google Maps` · `Google Calendar`
 
-[Repository](https://github.com/juangaudino/streex-riders) · [Live product](https://rides.getstreex.com)
+[Repository](https://github.com/juangaudino/streex-rides) · [Live product](https://rides.getstreex.com)
 
 ---
 
@@ -89,7 +89,7 @@ Turns earnings, shifts, mileage, and rides into goals, benchmarks, analytics, ac
 
 `React` · `TypeScript` · `Supabase` · `Edge Functions` · `Vitest` · `Playwright` · `GitHub Actions`
 
-[Repository](https://github.com/juangaudino/streex-tracker) · [Live product](https://gig.getstreex.com)
+[Repository](https://github.com/juangaudino/streex-gig) · [Live product](https://gig.getstreex.com)
 
 ---
 
