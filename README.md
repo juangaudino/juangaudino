@@ -62,10 +62,10 @@ I'm especially interested in turning processes that live in spreadsheets, forms,
       <br /><br />
       <h1>🪪</h1>
       <strong>Streex Aura Persona</strong><br />
-      <sub>Interactive professional CV and portfolio experience.</sub><br /><br />
-      <sub><em>Independent migration completed.</em></sub><br /><br />
+      <sub>Private, shareable digital CV profiles with dedicated access links.</sub><br /><br />
+      <sub><em>Public landing page with owner-controlled profile access.</em></sub><br /><br />
       <a href="https://github.com/juangaudino/streex-aura-persona">View repository</a> ·
-      <a href="https://professional-motion-story.lovable.app">Live app</a>
+      <a href="https://persona.getstreex.com">Live product</a>
       <br /><br />
     </td>
   </tr>
@@ -105,15 +105,13 @@ Tracks gardens, positions, grow cycles, observations, documentary photos, mainte
 ---
 
 ### 🪪 Streex Aura Persona
-**An interactive professional CV and portfolio experience.**
+**Private digital CV profiles with controlled sharing.**
 
-A motion-led, bilingual portfolio for presenting experience, projects, skills, and career history beyond a traditional résumé page.
+A bilingual digital-CV and portfolio platform with a public landing page, owner-controlled administration, and private shareable links so each professional profile can have its own identity and access path.
 
 `React 19` · `TypeScript` · `TanStack` · `Supabase` · `Tailwind CSS` · `Motion`
 
-Independent migration completed.
-
-[Repository](https://github.com/juangaudino/streex-aura-persona) · [Current live app](https://professional-motion-story.lovable.app)
+[Repository](https://github.com/juangaudino/streex-aura-persona) · [Live product](https://persona.getstreex.com)
 
 ## How I work with AI
 
